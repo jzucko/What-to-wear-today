@@ -1,0 +1,1 @@
+This weather program will tell you whether you should choose a coat, jacket, or shirt, depending on the temperature in your location. It fetches data from the api.tutiempo and even stores it in an SQL database.
